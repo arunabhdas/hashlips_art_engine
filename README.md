@@ -261,3 +261,13 @@ Trait type: Iris
 ```
 
 Hope you create some awesome artworks with this code 👄
+
+
+### Troubleshooting 
+#### Update package.json
+
+```sh
+npm i -g npm-check-updates
+ncu -u
+npm install
+```
